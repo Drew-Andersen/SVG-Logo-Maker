@@ -1,11 +1,11 @@
 # SVG-Logo-Maker
 
 ## Video link 
-** Link for walkthrough video **
+[Video walkthrough](https://drive.google.com/file/d/10v4uDvKG1fZXjwWqE7-gNEKCYtAb7af4/view)
 
 ## Images
-![alt text](./lib/images/terminal-logo.png)
-![alt text](./lib/images/SVG-logo.png)
+![Image of terminal application](./lib/images/terminal-logo.png)
+![Image of the logo created](./lib/images/SVG-logo.png)
 
 ## Table of Contents
 - [Description](#description)
